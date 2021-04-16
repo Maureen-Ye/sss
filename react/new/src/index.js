@@ -1,10 +1,22 @@
-import React from 'react';
+import react from 'react';
 import ReactDOM from 'react-dom';
+import { Layout } from 'antd';
+import 'antd/dist/antd.css';
+import './style.css'
 
-class App extends React.Component{
+import AppHeader from "./components/Header/";
+
+const { Header, Footer, Content } = Layout;
+class App extends react.Component{
   render() {
     return(
-        <div>aaa</div>
+        <Layout style={{minWidth:1300}}>
+          <Header className="header">
+            <AppHeader/>
+          </Header>
+          <Content className="content">Content</Content>
+          <Footer className="footer">Footer</Footer>
+        </Layout>
     )
   }
 }
