@@ -16,17 +16,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e1178af-537e-459b-8bf2-2b7460f8085e" name="默认更改列表" comment="0">
-      <change afterPath="$PROJECT_DIR$/react/learn_react/my-app/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/learn_react/my-app/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/learn_react/my-app/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/learn_react/my-app/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/learn_react/my-app/.idea/my-app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/learn_react/my-app/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/learn_react/my-app/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="3e1178af-537e-459b-8bf2-2b7460f8085e" name="默认更改列表" comment="多仓库合并">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/learn_react/my-app/src/counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/learn_react/my-app/src/counter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/learn_react/my-app/src/child.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/learn_react/my-app/src/child.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +41,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/react/learn_react/my-app" />
   </component>
   <component name="JsFlowSettings">
@@ -106,7 +104,7 @@
       <workItem from="1618451853649" duration="829000" />
       <workItem from="1618452748918" duration="1251000" />
       <workItem from="1618457237586" duration="646000" />
-      <workItem from="1618532796827" duration="17143000" />
+      <workItem from="1618532796827" duration="17475000" />
     </task>
     <task id="LOCAL-00001" summary="0">
       <created>1618450043592</created>
@@ -171,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618566046790</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="多仓库合并">
+      <created>1618566728690</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1618566728690</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +210,8 @@
     <MESSAGE value="4" />
     <MESSAGE value="header" />
     <MESSAGE value="0" />
-    <option name="LAST_COMMIT_MESSAGE" value="0" />
+    <MESSAGE value="多仓库合并" />
+    <option name="LAST_COMMIT_MESSAGE" value="多仓库合并" />
   </component>
   <component name="WindowStateProjectService">
     <state x="893" y="202" key="#Inspections" timestamp="1618534616337">
@@ -232,10 +238,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="579" y="126" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618566578911" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1618566074235">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1618566760476">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1618566074235" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1618566760476" />
     <state x="785" y="335" key="git4idea.rebase.GitRebaseDialog" timestamp="1618452837958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
