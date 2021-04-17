@@ -6,6 +6,15 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select>
       <path>
@@ -17,8 +26,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e1178af-537e-459b-8bf2-2b7460f8085e" name="默认更改列表" comment="多仓库合并">
+      <change afterPath="$PROJECT_DIR$/react/new/src/containers/Detail/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/new/src/containers/List/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/learn_react/my-app/src/child.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/learn_react/my-app/src/child.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/learn_react/my-app/src/button.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/learn_react/my-app/src/button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/new/src/components/Header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/new/src/components/Header/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/new/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/new/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/new/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/react/new/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +49,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -47,7 +62,7 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/react/learn_react/my-app" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -69,7 +84,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/react/learn_react" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/react/new/src" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -84,6 +99,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\learn\react\new\src" />
+      <recent name="C:\Users\Administrator\Desktop\learn\react\new\src\containers\List" />
       <recent name="C:\Users\Administrator\Desktop\learn\react\learn_react" />
       <recent name="C:\Users\Administrator\Desktop\learn\react\new\src\components\Header" />
     </key>
@@ -104,7 +121,8 @@
       <workItem from="1618451853649" duration="829000" />
       <workItem from="1618452748918" duration="1251000" />
       <workItem from="1618457237586" duration="646000" />
-      <workItem from="1618532796827" duration="17475000" />
+      <workItem from="1618532796827" duration="19200000" />
+      <workItem from="1618640906917" duration="15175000" />
     </task>
     <task id="LOCAL-00001" summary="0">
       <created>1618450043592</created>
@@ -176,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618566728690</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="多仓库合并">
+      <created>1618567054882</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1618567054882</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,10 +263,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="579" y="126" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618566578911" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1618566760476">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1618568140539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1618566760476" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1618568140539" />
     <state x="785" y="335" key="git4idea.rebase.GitRebaseDialog" timestamp="1618452837958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
