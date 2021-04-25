@@ -25,8 +25,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e1178af-537e-459b-8bf2-2b7460f8085e" name="默认更改列表" comment="2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    <list default="true" id="3e1178af-537e-459b-8bf2-2b7460f8085e" name="默认更改列表" comment="0">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +60,7 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/react/little_blog" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -76,7 +80,6 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -120,6 +123,7 @@
       <workItem from="1618640906917" duration="15175000" />
       <workItem from="1618791774642" duration="6508000" />
       <workItem from="1619350504565" duration="1863000" />
+      <workItem from="1619352395355" duration="593000" />
     </task>
     <task id="LOCAL-00001" summary="0">
       <created>1618450043592</created>
@@ -226,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619352249029</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="0">
+      <created>1619352551948</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1619352551948</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,11 +270,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="4" />
     <MESSAGE value="header" />
-    <MESSAGE value="0" />
     <MESSAGE value="多仓库合并" />
     <MESSAGE value="22" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="0" />
+    <option name="LAST_COMMIT_MESSAGE" value="0" />
   </component>
   <component name="WindowStateProjectService">
     <state x="893" y="202" key="#Inspections" timestamp="1618534616337">
@@ -290,10 +301,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="579" y="126" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618566578911" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1619352306588">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1619352960436">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1619352306588" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1619352960436" />
     <state x="785" y="335" key="git4idea.rebase.GitRebaseDialog" timestamp="1618452837958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
