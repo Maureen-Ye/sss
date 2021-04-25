@@ -3,6 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/react/learn_react/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react/little_blog" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/react/news" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vue/was in github/vue-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vx-app/mp_vue/my-project" vcs="Git" />
   </component>
 </project>

@@ -51,12 +51,13 @@ class PageList extends Component {
 
   componentDidMount() {
     const id = this.props.match.params.id;
-    let url = 'http://www.dell-lee.com/react/api/list.json'
+    let url = 'http://localhost:3000/strawberry'
     if (id) {
       url = url + '?id' + id
     }
     axios.get(url)
         .then(res => {
+          console.log(res.data)
           this.setState({
             data: res.data.data
           })

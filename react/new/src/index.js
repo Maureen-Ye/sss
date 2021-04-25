@@ -7,7 +7,7 @@ import {BrowserRouter, Route, Switch} from "react-router-dom";
 import AppHeader from "./components/Header/";
 import Detail from "./containers/Detail";
 import List from "./containers/List";
-
+import Login from "./components/Login";
 const {Header, Footer, Content} = Layout;
 
 
@@ -21,6 +21,7 @@ class App extends react.Component {
               <AppHeader/>
             </Header>
             <Content className="content">
+              <Login/>
               <Switch>
                 <Route path='/detail/:id' component={Detail}/>
 

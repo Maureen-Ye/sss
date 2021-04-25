@@ -26,14 +26,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e1178af-537e-459b-8bf2-2b7460f8085e" name="默认更改列表" comment="多仓库合并">
-      <change afterPath="$PROJECT_DIR$/react/new/src/containers/Detail/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/new/src/containers/List/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/new/src/components/Login/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/new/src/components/Login/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/learn_react/my-app/src/button.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/learn_react/my-app/src/button.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/new/src/components/Header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/new/src/components/Header/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/new/src/containers/Detail/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/new/src/containers/Detail/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react/new/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/new/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/new/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/react/new/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +46,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -84,7 +81,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/react/new/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/react/new/src/components/Login" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -99,6 +96,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\learn\react\new\src\components\Login" />
       <recent name="C:\Users\Administrator\Desktop\learn\react\new\src" />
       <recent name="C:\Users\Administrator\Desktop\learn\react\new\src\containers\List" />
       <recent name="C:\Users\Administrator\Desktop\learn\react\learn_react" />
@@ -123,6 +121,7 @@
       <workItem from="1618457237586" duration="646000" />
       <workItem from="1618532796827" duration="19200000" />
       <workItem from="1618640906917" duration="15175000" />
+      <workItem from="1618791774642" duration="6508000" />
     </task>
     <task id="LOCAL-00001" summary="0">
       <created>1618450043592</created>
